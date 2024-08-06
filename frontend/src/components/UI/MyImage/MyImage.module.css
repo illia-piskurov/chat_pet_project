@@ -1,0 +1,8 @@
+.Image {
+    height: 30px;
+    width: 30px;
+    min-width: 30px;
+    border: 3px teal dashed;
+    border-radius: 10px;
+    margin: 10px;
+}

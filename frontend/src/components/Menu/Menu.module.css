@@ -1,0 +1,14 @@
+.Menu {
+    background-color: #F5F5F5;
+    height: 100px;
+    align-items: center;
+    border-bottom: solid;
+    border-color: #d2d2d2;
+    border-width: 2px;
+    box-sizing: border-box;
+}
+
+.Wrapper {
+    display: flex;
+    justify-content: space-between;
+}

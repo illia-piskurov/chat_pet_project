@@ -1,0 +1,11 @@
+.Chats {
+    color: rgb(23, 171, 211);
+    margin-bottom: 20px;
+    font-size: larger;
+    margin: 30px 0 10px 10px;
+}
+
+.ChatList {
+    background-color: #FFFFFF;
+    height: 100%;
+}

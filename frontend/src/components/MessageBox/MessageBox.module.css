@@ -1,0 +1,29 @@
+.MessageBox {
+    width: max-content;
+    margin: 15px;
+}
+
+.User {
+    align-self: flex-end;
+}
+
+.MessageText {
+    padding: 13px;
+    border-radius: 1.5em;
+    font-size: small;
+}
+
+.FromContact {
+    background-color: #3C4154;
+    color: #d3d5dc;
+}
+
+.FromUser {
+    background-color: #d3d5dc;
+    color: #3C4154;
+}
+
+.MessageDate {
+    margin: 5px;
+    font-size: small;
+}

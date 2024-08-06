@@ -1,0 +1,36 @@
+.Item {
+    padding-top: 15px;
+    border-bottom: solid;
+    border-color: #d2d2d2;
+    border-width: 2px;
+    cursor: pointer;
+}
+
+.MessageBox {
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+
+.MessageBox p {
+    font-size: small;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ChatInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Date {
+    margin: 0 10px;
+    font-size: small;
+    white-space: nowrap;
+}
